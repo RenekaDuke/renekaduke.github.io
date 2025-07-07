@@ -1,4 +1,3 @@
-# renekaduke.github.io
 # 🛡️ Reneka Duke – IT Security Projects Portfolio
 
 Welcome to my cybersecurity project portfolio! I’m an aspiring IT Security professional passionate about securing systems, detecting threats, and delivering value through hands-on, real-world experience. This collection showcases the projects I’ve completed during my Summer 2025 internship, highlighting my work with enterprise security tools and platforms.
@@ -64,7 +63,7 @@ Welcome to my cybersecurity project portfolio! I’m an aspiring IT Security pro
 
 ## 📫 Contact Me
 - 📧 **Email:** renekaduke@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/renekaduke](https://linkedin.com/in/renekaduke)
+- 💼 **LinkedIn:** [linkedin.com/in/renekaduke]((https://www.linkedin.com/in/reneka-duke/))
 
 ---
 
