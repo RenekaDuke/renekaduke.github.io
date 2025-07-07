@@ -1,4 +1,4 @@
-# 📞 Contact Me
+# Contact Me
 
 I’m always happy to connect! Whether you have questions about my projects, want to collaborate, or just want to say hello, feel free to reach out.
 
