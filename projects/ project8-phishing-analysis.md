@@ -1,11 +1,11 @@
-# 🧪 Phishing Email Analysis and Threat Hunting
+# Phishing Email Analysis and Threat Hunting
 
-### ✅ Objective:
+### Objective:
 Analyze a phishing email using MxToolbox, VirusTotal, Shodan, and Sophos to detect, respond to, and block associated threats across the organization.
 
 ---
 
-### 🛠 Tools Used:
+### Tools Used:
 - MxToolbox (header and domain inspection)
 - VirusTotal (file and URL scanning)
 - Shodan (IP/host reconnaissance)
@@ -13,7 +13,7 @@ Analyze a phishing email using MxToolbox, VirusTotal, Shodan, and Sophos to dete
 
 ---
 
-### 🧪 What I Did:
+### What I Did:
 
 - Collected and analyzed a phishing email sample received internally  
 - Inspected email headers and sender reputation using **MxToolbox**  
@@ -25,7 +25,7 @@ Analyze a phishing email using MxToolbox, VirusTotal, Shodan, and Sophos to dete
 
 ---
 
-### 📈 Outcome:
+### Outcome:
 
 - Identified and confirmed a real phishing threat using layered analysis tools  
 - Prevented potential compromise by proactively blocking all IOCs across the environment  
