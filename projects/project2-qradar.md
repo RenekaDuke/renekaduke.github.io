@@ -1,18 +1,18 @@
-# 🛡️ SIEM Threat Detection using QRadar
+# SIEM Threat Detection using QRadar
 
-### ✅ Objective:
+### Objective:
 Review suspicious activity, detect and investigate the event in QRadar, and document the detection, investigation, and response workflow.
 
 ---
 
-### 🛠 Tools Used:
+### Tools Used:
 - IBM QRadar
 - Offense Viewer
 - Log Activity
 
 ---
 
-### 🧪 What I Did:
+### What I Did:
 
 - Identified and reviewed suspicious login behavior within the QRadar offense dashboard  
 - Drilled into correlated offenses to analyze log data, source/destination IPs, and event types  
@@ -21,7 +21,7 @@ Review suspicious activity, detect and investigate the event in QRadar, and docu
 
 ---
 
-### 📈 Outcome:
+### Outcome:
 
 - Demonstrated real-time event correlation and log analysis capabilities in QRadar  
 - Gained experience with triaging offenses and tracing abnormal activity through logs  
