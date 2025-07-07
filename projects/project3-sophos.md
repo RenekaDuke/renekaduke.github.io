@@ -1,18 +1,18 @@
-# 🦠 Malware Detection Simulation with Sophos
+# Malware Detection Simulation with Sophos
 
-### ✅ Objective:
+### Objective:
 Trigger a safe malware detection event using the EICAR test file and document Sophos’s detection, response, and reporting capabilities.
 
 ---
 
-### 🛠 Tools Used:
+### Tools Used:
 - Sophos Intercept X
 - EICAR test file
 - Sophos Central Dashboard
 
 ---
 
-### 🧪 What I Did:
+### What I Did:
 
 - Deployed the EICAR test file on a test endpoint to safely simulate malware behavior  
 - Observed and documented Sophos’s real-time detection and automated response  
@@ -22,7 +22,7 @@ Trigger a safe malware detection event using the EICAR test file and document So
 
 ---
 
-### 📈 Outcome:
+### Outcome:
 
 - Validated endpoint protection capabilities in a safe environment  
 - Demonstrated Sophos’s rapid threat detection, auto-remediation, and alerting workflow  
