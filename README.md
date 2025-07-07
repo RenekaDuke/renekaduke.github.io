@@ -62,7 +62,7 @@ Welcome to my cybersecurity project portfolio! I’m an aspiring IT Security pro
 ---
 
 ## 📫 Contact Me
-- 📧 **Email:** renekaduke@example.com  
+- 📧 **Email:** renekaduke1@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/renekaduke]((https://www.linkedin.com/in/reneka-duke/))
 
 ---
