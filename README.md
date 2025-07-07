@@ -46,5 +46,7 @@ I am passionate about learning, problem-solving, and applying technology to secu
 ### [10. Automated Threat IOC Replacement and Panorama Firewall Deployment](projects/project10-ioc-automation.md)  
 **Objective:** Automate the process of updating outdated threat indicators and deploying them to Panorama firewalls via CLI and SSH.
 
+- [Contact Me](contact.md)
+
 ---
 
