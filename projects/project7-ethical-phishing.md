@@ -1,18 +1,18 @@
-# 🎯 Ethical Phishing Campaign Simulation
+# Ethical Phishing Campaign Simulation
 
-### ✅ Objective:
+### Objective:
 Design and deploy a controlled phishing email in a lab or test environment to better understand attacker techniques and evaluate security defenses.
 
 ---
 
-### 🛠 Tools Used:
+### Tools Used:
 - Sophos Phish Threat
 - Internal user group (intern cohort)
 - Training modules & campaign tracking dashboard
 
 ---
 
-### 🧪 What I Did:
+### What I Did:
 
 - Created and launched a targeted phishing simulation using **Sophos Phish Threat**  
 - Designed the phishing email to mimic real-world tactics, testing awareness and response  
@@ -26,7 +26,7 @@ Design and deploy a controlled phishing email in a lab or test environment to be
 
 ---
 
-### 📈 Outcome:
+### Outcome:
 
 - Gained hands-on experience designing and executing a phishing campaign from end to end  
 - Reinforced the importance of user awareness and education in a layered security strategy  
