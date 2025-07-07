@@ -1,4 +1,5 @@
 # Reneka Duke — IT Security Internship Portfolio
+[Contact Me](contact.md)
 
 Welcome! This portfolio showcases a collection of cybersecurity and IT security projects I completed during my internship. Each project highlights hands-on experience with industry tools, real-world challenges, and practical solutions.
 
@@ -46,7 +47,6 @@ I am passionate about learning, problem-solving, and applying technology to secu
 ### [10. Automated Threat IOC Replacement and Panorama Firewall Deployment](projects/project10-ioc-automation.md)  
 **Objective:** Automate the process of updating outdated threat indicators and deploying them to Panorama firewalls via CLI and SSH.
 
-[Contact Me](contact.md)
 
 ---
 
