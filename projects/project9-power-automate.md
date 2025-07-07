@@ -1,11 +1,11 @@
-# 🔎 Security Risk Assessment for Microsoft Power Automate
+# Security Risk Assessment for Microsoft Power Automate
 
-### ✅ Objective:
+### Objective:
 Evaluate the security risks of Microsoft Power Automate as an isolated platform and recommend governance solutions to enable secure enterprise usage.
 
 ---
 
-### 🛠 Tools & References Used:
+### Tools & References Used:
 - Microsoft Power Automate
 - Microsoft Power Platform Admin Center
 - Internal IT Governance Policies
@@ -13,7 +13,7 @@ Evaluate the security risks of Microsoft Power Automate as an isolated platform 
 
 ---
 
-### 🧪 What I Did:
+### What I Did:
 
 - Conducted a focused security risk assessment on Microsoft Power Automate within the organization  
 - Researched potential misuse risks including:
@@ -30,7 +30,7 @@ Evaluate the security risks of Microsoft Power Automate as an isolated platform 
 
 ---
 
-### 📈 Outcome:
+### Outcome:
 
 - Provided actionable recommendations to securely enable Power Automate within the enterprise  
 - Helped reduce risk associated with unsupervised low-code automation  
