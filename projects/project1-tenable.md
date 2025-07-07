@@ -1,18 +1,18 @@
-# 🔍 Vulnerability Scan & Report using Tenable.io
+#  Vulnerability Scan & Report using Tenable.io
 
-### ✅ Objective:
+### Objective:
 Conduct a comprehensive vulnerability scan using Tenable.io, focusing on identifying and analyzing medium to low severity issues across targeted assets within the network.
 
 ---
 
-### 🛠 Tools Used:
+### Tools Used:
 - Tenable.io
 - Credentialed scanning
 - Executive reporting tools
 
 ---
 
-### 🧪 What I Did:
+### What I Did:
 
 - Configured and launched a credentialed scan in Tenable.io targeting specific IP ranges  
 - Monitored the scan progress and ensured it completed without errors  
@@ -23,7 +23,7 @@ Conduct a comprehensive vulnerability scan using Tenable.io, focusing on identif
 
 ---
 
-### 📈 Outcome:
+### Outcome:
 
 - Delivered a detailed report to the team with actionable remediation items  
 - Enhanced overall visibility into low-to-medium risk issues often overlooked  
