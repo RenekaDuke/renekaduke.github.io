@@ -1,11 +1,11 @@
-# ⚙️ Automated Threat IOC Replacement and Panorama Firewall Deployment
+# Automated Threat IOC Replacement and Panorama Firewall Deployment
 
-### ✅ Objective:
+### Objective:
 To replace a manual process for updating outdated threat indicators with a fully automated script, enabling faster and more accurate deployment of malicious IPs to Panorama and firewalls.
 
 ---
 
-### 🛠 Tools & Technologies Used:
+### Tools & Technologies Used:
 - Python (via Notepad++ PythonScript plugin)
 - Regular Expressions (IP format matching)
 - PuTTY (SSH client)
@@ -14,7 +14,7 @@ To replace a manual process for updating outdated threat indicators with a fully
 
 ---
 
-### 🧪 What I Did:
+### What I Did:
 
 - Identified inefficiencies in the manual workflow of updating a 2400+ line IP blocklist, which involved find-and-replace edits in Notepad++  
 - Developed a PythonScript to automate the process by:
@@ -27,7 +27,7 @@ To replace a manual process for updating outdated threat indicators with a fully
 
 ---
 
-### 📈 Results:
+### Results:
 
 - Reduced manual update time from ~3 hours to less than 10 minutes  
 - Enabled faster response to evolving threats through streamlined firewall rule updates  
@@ -35,7 +35,7 @@ To replace a manual process for updating outdated threat indicators with a fully
 
 ---
 
-### 💡 Key Takeaways:
+### Key Takeaways:
 
 - Applied Python scripting to solve a real-world cybersecurity operations challenge  
 - Gained experience with firewall CLI and configuration propagation  
