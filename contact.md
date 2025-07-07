@@ -4,7 +4,6 @@ I’m always happy to connect! Whether you have questions about my projects, wan
 
 **Email:** renekaduke1@gmail.com  
 **LinkedIn:** [linkedin.com/in/reneka-duke](https://linkedin.com/in/reneka-duke)  
-**GitHub:** [github.com/RenekaDuke](https://github.com/RenekaDuke)
 
 ---
 
