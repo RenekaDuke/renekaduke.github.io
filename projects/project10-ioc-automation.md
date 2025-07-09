@@ -29,7 +29,7 @@ To replace a manual process for updating outdated threat indicators with a fully
 
 ### Results:
 
-- Reduced manual update time from ~3 hours to less than 10 minutes  
+- Reduced manual update time from over 3 hours to under than 10 minutes  
 - Enabled faster response to evolving threats through streamlined firewall rule updates  
 - Increased accuracy and consistency by eliminating human error in IOC formatting  
 
