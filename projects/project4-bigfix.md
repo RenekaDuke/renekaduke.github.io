@@ -14,19 +14,19 @@ Deploy a required software update to a designated endpoint and confirm successfu
 
 ### Process Overview:
 
-** Target Identification:**  
+**Target Identification:**  
 Selected the target device requiring the update from the BigFix Console dashboard.
 
-** Patch Selection:**  
+**Patch Selection:**  
 Identified the relevant fixlet corresponding to the missing software update.
 
-** Deployment:**  
+**Deployment:**  
 Initiated the deployment action from the console and applied it to the target device.
 
-** Verification:** 
+**Verification:** 
 Monitored action status in BigFix to ensure the update was downloaded, installed, and marked as “Completed.”
 
-** Post-Deployment Check:**  
+**Post-Deployment Check:**  
 Confirmed the endpoint reflected updated patch status and no remediation was pending.
 
 ---
