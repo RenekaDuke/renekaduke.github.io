@@ -1,7 +1,7 @@
 # Reneka Duke — IT Security Internship Portfolio
 [Contact Me](contact.md)
 
-Welcome! This portfolio showcases a collection of cybersecurity and IT security projects I completed during my internship. Each project highlights hands-on experience with industry tools, real-world challenges, and practical solutions.
+Welcome! This portfolio showcases a collection of cybersecurity and IT security projects I've completed. Each project highlights hands-on experience with industry tools, real-world challenges, and practical solutions.
 
 **What you’ll find here:**
 - Vulnerability scanning and reporting  
